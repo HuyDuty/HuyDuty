@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 import android.os.Bundle;
 
 public class Product {
@@ -11,4 +12,8 @@ jkbjkbnlknlnln;
         fragment.setArguments(args);
         return fragment;
     }
+=======
+public class Product {
+
+>>>>>>> origin/master
 }
